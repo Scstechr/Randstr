@@ -1,2 +1,5 @@
 .*
 .default.txt
+*.spec
+build
+dist
